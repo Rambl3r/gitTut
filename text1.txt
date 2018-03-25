@@ -1,1 +1,2 @@
 Hi tutorial!
+Second line added; now with newline at end.
