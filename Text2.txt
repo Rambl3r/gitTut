@@ -1,8 +1,4 @@
 Some text here.
 I have to add some more to this file (and also mention the "who can see...?" which I did not add when I first created this file...vive la diference!)
-<<<<<<< HEAD
 Ben was here!
-=======
-Anne was here like for real...
->>>>>>> 9e73cabae961c23c705129259202452837342747
 
